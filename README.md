@@ -1,7 +1,10 @@
 # Behaviour-Modelling-for-Urban-Road-Users
-Master's Thesis Project
-Name: Kshamit Bombarde
-Roll No. : 20BT3AI06
+
+## Master's Thesis Project
+
+
+### Name: Kshamit Bombarde
+### Roll No. : 20BT3AI06
 
 
 ## Files Info : 
